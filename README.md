@@ -3,9 +3,9 @@
 Aplikasi web sederhana untuk pencarian dan pemesanan tiket bus antarkota (tema: Tiketing, mirip Traveloka).
 Tugas UTS **Struktur Data** — Pendidikan Teknologi Informasi, Universitas Negeri Surabaya.
 
-- Nama : Muhammad Zaidan
+- Nama : Muhammad Zaidan Rifqii Nur Cahyo
 - NIM  : 25050974026
-- Video demo : ...
+- Video demo : https://youtu.be/VEwWUCg_Jwo?si=Iqko9Z5Ka_FFsNmV
 
 ## Fitur
 
